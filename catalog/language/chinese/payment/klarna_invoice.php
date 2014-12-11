@@ -27,7 +27,7 @@ $_['help_pno']					= '请在此输入您的社会安全号码。';
 $_['help_phone_no']				= '请输入您的手机号码。';
 $_['help_street']				= '请注意，配送地址只能是Klarna已注册的地址。';
 $_['help_house_no']				= '请输入您的门牌号码。';
-$_['help_house_ext']			= 请输入您的房间号码。E.g. A, B, C, Red, Blue ect.';
+$_['help_house_ext']			= '请输入您的房间号码。E.g. A, B, C, Red, Blue ect.';
 $_['help_company']				= '请输入您的公司的注册号码';
 
 // Error

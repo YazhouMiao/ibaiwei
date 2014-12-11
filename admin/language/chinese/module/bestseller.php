@@ -12,7 +12,7 @@ $_['text_column_left']    = '左列显示';
 $_['text_column_right']   = '右列显示';
 
 // Entry
-$_['entry_name']       = 模块名称';
+$_['entry_name']       = '模块名称';
 $_['entry_limit']         = '数量：';
 $_['entry_image']         = '图形大小 (W x H)：';
 $_['entry_width']      = '宽度';
